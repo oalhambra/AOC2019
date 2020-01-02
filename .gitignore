@@ -1,3 +1,4 @@
 /AOC_2019.iml
 /.idea/
-/src/day*/input.txt
+/src/day*/*input.txt
+/.gitignore
